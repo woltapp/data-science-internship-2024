@@ -1,5 +1,7 @@
 # Data Science Summer Intern assignment 2024
 
+> Application period for the summer internships has ended, thanks for all the applicants! However, we have plenty of open roles in https://careers.wolt.com/en 🙂
+
 **Assignment for candidates**
 
 This is a mandatory assignment for everyone applying for the data science internship. Please return your answers along with your application.
